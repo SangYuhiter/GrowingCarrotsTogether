@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">GrowingCarrotsTogether</string>
+    <string name="app_name">一起种胡萝卜喽</string>
+    <string name="theme_str">跟我一起种胡萝卜喽！</string>
 </resources>
