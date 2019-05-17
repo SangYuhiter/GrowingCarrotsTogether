@@ -1,4 +1,12 @@
 <resources>
-    <string name="app_name">一起种胡萝卜喽</string>
-    <string name="theme_str">跟我一起种胡萝卜喽！</string>
+    <string name="app_name">种胡萝卜喽</string>
+    <string name="theme_str">和大兔子一起种胡萝卜喽！</string>
+    <string name="zero_str">0</string>
+    <string name="up_str">上</string>
+    <string name="down_str">下</string>
+    <string name="left_str">左</string>
+    <string name="right_str">右</string>
+    <string name="get_str">获得</string>
+    <string name="score_str">分</string>
+    <string name="start_str">开始/重新开始</string>
 </resources>
